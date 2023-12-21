@@ -54,13 +54,13 @@ global.botname = 'KAE TECH BOT
 global.premium = 'true'
 global.packname = 'Dont Steal This' 
 global.author = 'ᴋᴀᴇ ༒' 
-global.menuvid = 'https://telegra.ph/file/085c4b1068f0f4f8db970.mp4'
-global.igfg = '▢ Follow on Instagram\nhttps://www.instagram.com/asli_guru69\n' 
+global.menuvid = 'https://github.com/Eff-Kae/Suhail-Md/blob/main/mee.mp4'
+global.igfg = '▢ Follow on Instagram\nhttps://www.instagram.com/Mr.Eff-Kae\n' 
 global.dygp = 'https://chat.whatsapp.com/JYAg2lMpRTF2bgkeFCxsvf'
 global.fgsc = 'https://github.com/Guru322/GURU-BOT' 
 global.fgyt = 'https://youtube.com/@GAMER_KAE'
 global.fgpyp = 'https://youtube.com/@GAMER_KAE'
-global.fglog = 'https://raw.githubusercontent.com/Guru322/api/Guru/guru.jpg' 
+global.fglog = 'https://i.pinimg.com/736x/4c/cd/30/4ccd30c0a5c205f8ac232f15896488cf.jpg' 
 global.thumb = fs.readFileSync('./Assets/Gurulogo.jpg')
 
 
