@@ -7,16 +7,16 @@ import axios from 'axios'
 
 
 global.owner = [
-  ['2347085169941', 'ᴋᴀᴇ ༒', true],
-  ['233209037708', 'Hanzo', true], 
-  ['234 916 726 5767', 'ɢʟᴇᴇ ✨', true] 
+  ['', '', true],
+  ['2347085169941', 'ᴋᴀᴇ ༒', true], 
+  ['2349067069138', 'MY EX', true] 
 ] //Number of owners
 
 //global.pairingNumber = "2347085169941" //put your bot number here
 
-global.mods = ['2347085169941','233209037708'] 
-global.prems = ['2347085169941','233209037708', '919398758484']
-global.allowed = ['2347085169941','233209037708', '19152999993']
+global.mods = ['2347085169941','2349067069138'] 
+global.prems = ['2347085169941','2349067069138', '919398758484']
+global.allowed = ['2347085169941','2349067069138', '19152999993']
 global.keysZens = ['c2459db922', '37CC845916', '6fb0eff124']
 global.keysxxx = keysZens[Math.floor(keysZens.length * Math.random())]
 global.keysxteammm = ['29d4b59a4aa687ca', '5LTV57azwaid7dXfz5fzJu', 'cb15ed422c71a2fb', '5bd33b276d41d6b4', 'HIRO', 'kurrxd09', 'ebb6251cc00f9c63']
@@ -50,11 +50,11 @@ global.APIKeys = { // APIKey Here
 }
 
 // Sticker WM
-global.botname = 'KAE-TECH BOT'
+global.botname = 'NOT-FAKE'
 global.premium = 'true'
 global.packname = 'Dont Steal This' 
 global.author = 'ᴋᴀᴇ ༒' 
-global.menuvid = 'https://github.com/Eff-Kae/Suhail-Md/blob/main/mee.mp4'
+global.menuvid = 'https://i.imgur.com/ZC904Cl.mp4'
 global.igfg = '▢ Follow on Instagram\nhttps://www.instagram.com/Mr.Eff-Kae\n' 
 global.dygp = 'https://chat.whatsapp.com/JYAg2lMpRTF2bgkeFCxsvf'
 global.fgsc = 'https://github.com/Guru322/GURU-BOT' 
